@@ -1,0 +1,160 @@
+@charset "utf-8";
+body,td,th {
+	font-size: 11px;
+	color: #535252;
+	font-family: Tahoma;
+}
+body {
+	background-color: #f7f7f7;
+	margin-left: 0px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a:link {
+	text-decoration: none;
+	font-family: Tahoma;
+	color: #414747;
+}
+a:visited {
+	text-decoration: none;
+	font-family: Tahoma;
+	color: #E3CB80;
+}
+a:hover {
+	text-decoration: underline;
+	font-family: Tahoma;
+	color: #AF8C0C;
+}
+a:active {
+	text-decoration: none;
+	font-family: Tahoma;
+	color: #595D60;
+}
+.inputclass {
+	font-size: 10px;
+	font-family: Tahoma;
+	color: #2b2b2b;
+	border: 1px solid #AFB2B7;
+	height: 16px;
+}
+.menu_text {color: #dbe1e3}
+.menu_head {
+	color: #E3CB80;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+.head_blk {
+	color: #2b2b2b;
+	font-family: "Lucida Sans Unicode";
+	font-size: 12px;
+	font-weight: bold;
+}
+.head_white {
+	color: #FFFFFF;
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+}
+.sml_text {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #8c8c8c;
+}
+.sml_textred {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #AF8C0C;
+}
+a.red:link {
+	text-decoration: none;
+	font-family: Tahoma;
+	color: #AF8C0C;
+}
+a.red:visited {
+	text-decoration: none;
+	font-family: Tahoma;
+	color: #AF8C0C;
+}
+a.red:hover {
+	text-decoration: underline;
+	font-family: Tahoma;
+	color: #414747;
+}
+a.red:active {
+	text-decoration: none;
+	font-family: Tahoma;
+	color: #AF8C0C;
+}
+.products_cap {
+	color: #000000;
+	font-family: Tahoma;
+	font-size: 11px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.white {
+	color: #FFFFFF
+}
+.products_price {
+	color: #AF8C0C;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+.border_grey {
+	border: 1px dashed #D7E1E3;
+}
+
+
+
+.PopBoxImageSmall
+{
+	border: none 0px #ffffff;
+	cursor: url("images/magplus.cur"), pointer;
+}
+.PopBoxImageLarge
+{
+	border: solid 1px #999999;
+	cursor: url("images/magminus.cur"), pointer;
+}
+.PopBoxImageShrink
+{
+	cursor: url("images/magminus.cur"), pointer;
+}
+.PopBoxImageLink
+{
+	cursor: pointer;
+}
+.PopBoxImageMove
+{
+	border: none 0px #ffffff;
+	cursor: pointer;
+}
+.sml_textwhite {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+.red_button {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	background-color: #AF8C0C;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.blk_button {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	background-color: #F1F2F3;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	height: 12px;
+	width: 50px;
+}
